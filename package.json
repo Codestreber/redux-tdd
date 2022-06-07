@@ -1,0 +1,30 @@
+{
+  "name": "redux-tdd",
+  "version": "0.0.1",
+  "description": "Example project that shows the best practces testing vanilla redux projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codestreber/redux-tdd.git"
+  },
+  "keywords": [
+    "tdd",
+    "redux",
+    "best",
+    "practices"
+  ],
+  "author": "Matthias Kluth <kluthmatthias@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Codestreber/redux-tdd/issues"
+  },
+  "homepage": "https://github.com/Codestreber/redux-tdd#readme",
+  "devDependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "jest": "^28.1.1",
+    "typescript": "^4.7.3"
+  }
+}
